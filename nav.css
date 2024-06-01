@@ -80,3 +80,31 @@
 /* Banner section close -------------*/
 
 
+.product-container{
+  padding: 0px 50px;
+  margin-bottom: 20px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px;
+}
+.op{
+  padding-bottom: 20px;
+  text-align: center;
+}
+.product{
+  background-color: var(--main-color);
+  width: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+}
+.product p {
+  padding-bottom: 10px;
+}
+.product img {
+  width: 80%;
+}
+.pi{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}

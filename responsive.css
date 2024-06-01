@@ -46,7 +46,13 @@
 /* Banner section close */
 
 
+.product-container {
+  grid-template-columns: auto;
+  padding: 0px 5px;
+  gap: 10px;
+}
 
+/* Product responsive close ------------- */
 
 
 
