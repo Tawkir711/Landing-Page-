@@ -1,0 +1,36 @@
+@media only screen and (min-width: 200px) and (max-width: 576px) {
+  .nav-container {
+    flex-direction: column;
+    padding: 0px;
+    margin: 0px;
+  }
+  .nav-section {
+    font-size: 21px;
+    flex-direction: column;
+    gap: 15px;
+  }
+  .btn button {
+    border: none;
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 20px;
+  }
+  .logo {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+  }
+
+/* Navbar Responsive close */
+
+
+
+
+
+
+
+
+
+
+
+}
