@@ -36,3 +36,47 @@
   padding-left: 5px;
 }
 
+/* -----------Navbar close-------------------- */
+
+
+.banner-container{
+  padding: 30px 30px;
+  margin: 50px;
+  background-color: var(--main-color);
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.banner-title {
+  width: 50%;
+}
+.banner-title h1 {
+  font-size: 52px;
+  padding: 30px 0px;
+  color: #D58DD3;
+}
+.banner-title p {
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+.icon{
+  padding-bottom: 30px;
+}
+.image-section {
+  width: 50%;
+}
+.image-section img{
+  width: 100%;
+}
+.btn2 button{
+  background-color:#D58DD3 ;
+  padding: 15px;
+  border: none;
+  border-radius: 20px;
+  color: white;
+}
+
+
+/* Banner section close -------------*/
+
+
