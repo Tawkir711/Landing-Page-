@@ -108,3 +108,36 @@
   justify-content: space-between;
   padding-bottom: 10px;
 }
+
+/* our product section close */
+
+
+.footer {
+  background-color: var(--nf-color);
+  color: var(--bg-color);
+  padding: 60px 70px 30px;
+}
+.f-logo {
+  text-align: center;
+  padding: 20px 0px;
+}
+.f-logo img {
+  width: 50px;
+}
+
+.f-section {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding-bottom: 50px;
+}
+.f-icon {
+  display: flex;
+  gap: 30px;
+  padding: 10px 0px;
+  justify-content: center;
+}
+.tt{
+  text-align: center;
+}

@@ -21,46 +21,47 @@
     padding: 20px 0px;
   }
 
-/* Navbar Responsive close */
+  /* Navbar Responsive close */
 
+  .banner-container {
+    flex-direction: column;
+    padding: 0px 0px;
+    margin: 25px 5px;
+    background-color: var(--main-color);
+  }
+  .banner-title,
+  .image-section {
+    width: 100%;
+  }
+  .banner-title h1 {
+    font-size: 40px;
+  }
+  .banner-title p {
+    font-size: 25px;
+  }
+  .btn2 {
+    padding-bottom: 20px;
+  }
 
-.banner-container {
-  flex-direction: column;
-  padding: 0px 0px;
-  margin: 25px 5px;
-  background-color: var(--main-color);
-}
-.banner-title, .image-section {
-  width: 100%;
-}
-.banner-title h1{
-  font-size: 40px;
-}
-.banner-title p{
-  font-size: 25px;
-}
-.btn2{
-  padding-bottom: 20px;
-}
+  /* Banner section close */
 
-/* Banner section close */
+  .product-container {
+    grid-template-columns: auto;
+    padding: 0px 5px;
+    gap: 10px;
+  }
 
+  /* Product responsive close ------------- */
 
-.product-container {
-  grid-template-columns: auto;
-  padding: 0px 5px;
-  gap: 10px;
-}
-
-/* Product responsive close ------------- */
-
-
-
-
-
-
-
-
-
-
+  .f-section {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 0px;
+  }
+  .tt {
+    font-size: 12px;
+  }
+  .footer{
+    padding: 20px 0px;
+  }
 }
